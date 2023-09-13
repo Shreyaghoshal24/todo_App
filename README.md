@@ -1,5 +1,5 @@
 # TODO APPLICATION
-##
+#
 This is a basic todo application to create & delete your todo list
 
 # Pre-requisites
